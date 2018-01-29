@@ -1,9 +1,9 @@
 #!/bin/bash
 
-SLACK_DIR = /Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/static
+SLACK_DIR=/Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/static
 
 echo -e "\n    Uninstalling Slack Custom Controls..."
-echo -e "    Restoring configuration from installation backup..."
+echo -e "    Restoring configuration from installation backup...\n"
 
 rm $SLACK_DIR/ssb-interop.js
 cp -v ./backup/ssb-interop.js $SLACK_DIR/
