@@ -16,3 +16,10 @@ $ ./install
 ```
 
 Important: Install and Uninstall scripts use relative paths so they MUST be ran from within your cloned repo's directory. Please `cd` into the repo directory before running.
+
+
+## TODO
+- Port to Slack web app
+- Fix threads in DarkMode
+- Fix code snippets in DarkMode
+- Other DarkMode fixes
