@@ -18,5 +18,6 @@ echo -e "\n    Installing Controls...\n"
 rm $SLACK_DIR/ssb-interop.js
 cp -v ./lib/ssb-interop.js $SLACK_DIR/
 
-echo -e "\n    ${b}Complete.${n} Close and Restart Slack Application."
-echo -e "    Note: Custom controls waits about 7 seconds from application startup to load...\n"
+echo -e "\n    ${b}Complete.${n} Close and Restart Slack Application.\n"
+echo -e "    Note: Custom controls waits about 7 seconds"
+echo -e "          from application startup to load...\n"
