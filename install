@@ -1,0 +1,18 @@
+#!/bin/bash
+
+SLACK_DIR = /Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/static
+u=`tput smul`
+nu=`tput smul`
+
+echo -e "\n\t${u}Slack Custom Controls${nu}\n"
+echo -e "    Backed up current Slack configuration..."
+echo -e "    (to uninstall custom controls run uninstall script in this repository\n"
+
+cp -v $SLACK_DIR/ssb-interop.js ./backup/
+
+echo -e "\n    Installing Controls...\n"
+
+rm $SLACK_DIR/ssb-interop.js
+cp -v ./lib/ssb-interop.js $SLACK_DIR/
+
+echo -e "\n   Complete. Close and Restart Slack Application."
