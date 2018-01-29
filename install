@@ -7,17 +7,15 @@ b=`tput bold`
 n=`tput sgr0`
 
 echo -e "\n\t${u}Slack Custom Controls${nu}\n"
-echo -e "    Backed up current Slack configuration..."
-echo -e "    (to uninstall custom controls run"
-echo -e "     uninstall script in this repository)\n"
+echo -e "  Backing up current Slack configuration..."
+echo -e "  (To uninstall custom controls run uninstall script in this repository)\n"
 
-cp -v $SLACK_DIR/ssb-interop.js ./backup/
+cp $SLACK_DIR/ssb-interop.js ./backup/
 
-echo -e "\n    Installing Controls...\n"
+echo -e "  Installing Controls...\n"
 
 rm $SLACK_DIR/ssb-interop.js
-cp -v ./lib/ssb-interop.js $SLACK_DIR/
+cp ./lib/ssb-interop.js $SLACK_DIR/
 
-echo -e "\n    ${b}Complete.${n} Close and Restart Slack Application.\n"
-echo -e "    Note: Custom controls waits about 7 seconds"
-echo -e "          from application startup to load...\n"
+echo -e "  ${b}Complete.${n} Close and Restart Slack Application.\n"
+echo -e "  Note: Custom controls waits about 7 seconds from application startup to load...\n"
