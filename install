@@ -18,4 +18,3 @@ rm $SLACK_DIR/ssb-interop.js
 cp ./lib/ssb-interop.js $SLACK_DIR/
 
 echo -e "  ${b}Complete.${n} Close and Restart Slack Application.\n"
-echo -e "  Note: Custom controls waits about 7 seconds from application startup to load...\n"
