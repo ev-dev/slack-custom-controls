@@ -2,7 +2,7 @@
 Slack is slacking on some pretty basic features. Here is a script to install some custom addons. This places convenient buttons for toggling the Channels Sidebar and a global Darkmode theme.
 
 ### Screenshot
-![screenshot](https://gyazo.com/8c96fe49b1ccd2ea8634f7d8171d7ac4)
+[![https://gyazo.com/8c96fe49b1ccd2ea8634f7d8171d7ac4](https://i.gyazo.com/8c96fe49b1ccd2ea8634f7d8171d7ac4.gif)](https://gyazo.com/8c96fe49b1ccd2ea8634f7d8171d7ac4)
 
 ### Only tested in OS X Desktop version
 
