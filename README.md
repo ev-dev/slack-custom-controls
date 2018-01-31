@@ -33,9 +33,9 @@ Want anything else out of Slack? Make an issue.
 
 ## Slack Desktop Too Bulky?
 If Slack.app takes up too much system resources and you use the web version, you can still customize your slack from this fantastic extension:
-[Stylelish Extension](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcff) [![https://userstyles.org/ui/images/stylish-logo-2.svg](https://userstyles.org/ui/images/stylish-logo-2.svg)](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcff)
-
-Custom Slack Styles Here: https://userstyles.org/styles/browse?search_terms=slack
+- Stylish Chrome Extension: [Here](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcff)
+- Stylish Firefox Add-on: [Here](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
+- Custom Slack Styles: [Here](https://userstyles.org/styles/browse?search_terms=slack)
 
 ### Credits
 Lots of credit goes to a chain of repositories starting from:
