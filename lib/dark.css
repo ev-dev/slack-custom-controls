@@ -1992,7 +1992,7 @@ textarea[readonly] {
 }
 
 .c-message__sender_link {
-    color: grey;
+    color: grey !important;
 }
 
 .c-mrkdwn__broadcast--mention {
