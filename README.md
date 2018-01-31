@@ -13,13 +13,14 @@ Slacks' slacking on some pretty basic features. Here is an easy script to instal
 
 ## Instructions
 Included in this repo is an install script which simply moves a modified file of the Slack source code into place and backs up the original.  
-To uninstall, run uninstall script from within the same directory.
 
 ```bash
 $ git clone https://github.com/ev-dev/slack-custom-controls.git
 $ cd slack-custom-controls
 $ ./install
 ```
+
+To uninstall, run uninstall script from within the same directory.  
 
 **Important:** _Install and uninstall scripts use relative paths._ Do **not** run from outside the repo's root directory. Always `cd` into repo directory before running either script.
 
