@@ -1,4 +1,6 @@
+.DS_Store
 .vscode
 
 backup/ssb-interop*
 clean
+dist
