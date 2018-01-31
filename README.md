@@ -1,5 +1,11 @@
 # Slack Custom Controls
-Slack is slacking on some pretty basic features. Here is a script to install some custom addons. This places convenient buttons for toggling the Channels Sidebar and a global Darkmode theme.
+Slack is slacking on some pretty basic features. Here is a script to install some custom addons. 
+
+## Features
+- Dark Mode Theme
+- Hide Channels Sidebar for more screen space
+- Convenient buttons for toggling features
+- Keyboard shortcuts!  Toggle Dark Theme (⌘ + D) & Toggle Sidebar (⌘ + S)
 
 ### Screenshot
 [![https://gyazo.com/451567e9ddaa44cb675c48f016d085e8](https://i.gyazo.com/451567e9ddaa44cb675c48f016d085e8.gif)](https://gyazo.com/451567e9ddaa44cb675c48f016d085e8)
