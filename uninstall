@@ -10,7 +10,7 @@ echo -e "\n\t${u}Slack Custom Controls${nu}\n"
 echo -e "  Uninstalling Slack Custom Controls..."
 echo -e "  Restoring configuration from installation backup...\n"
 
-rm $SLACK_DIR/ssb-interop.js
+rm $SLACK_DIR/ssb-interop.js $SLACK_DIR/dark.css
 cp ./backup/ssb-interop.js $SLACK_DIR/
 
 echo -e "  ${b}Complete.${n} Close and Restart Slack Application.\n"

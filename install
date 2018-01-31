@@ -15,6 +15,6 @@ cp $SLACK_DIR/ssb-interop.js ./backup/
 echo -e "  Installing Controls...\n"
 
 rm $SLACK_DIR/ssb-interop.js
-cp ./lib/ssb-interop.js $SLACK_DIR/
+cp ./lib/ssb-interop.js ./lib/dark.css $SLACK_DIR/
 
 echo -e "  ${b}Complete.${n} Close and Restart Slack Application.\n"
