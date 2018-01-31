@@ -1987,6 +1987,10 @@ textarea[readonly] {
     color: #E2E2E2;
 }
 
+.c-mrkdwn__member--link, .c-mrkdwn__subteam--link {
+    background-color: #121212;
+}
+
 .c-message__sender_link {
     color: #757575;
 }
