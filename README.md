@@ -26,16 +26,17 @@ Important: Install and Uninstall scripts use relative paths so they MUST be ran 
 Additionally, you can update your Sidebar's theme from the Preferences. To match the Dark Mode Theme colorscheme of this project:
 - From the menu, go to **_Preferences_** ➪ **_Sidebar_** ➪ **_Theme_**
 - At the bottom click **_Customize Your Theme_** and clear the textbox
-- Paste the follow Hex colors:  `#222222,#444A47,#D39B46,#FFFFFF,#434745,#FFFFFF,#99D04A,#DB6668`
+- Paste the follow Hex colors:  
+`#222222,#444A47,#D39B46,#FFFFFF,#434745,#FFFFFF,#99D04A,#DB6668`
 
 ## Feature Requests
 Want anything else out of Slack? Make an issue.
 
 ## Slack Desktop Too **Bulky**?
 If Slack.app takes up too much system resources and you use the web version, you can still customize your slack from this fantastic extension:
-- Stylish Chrome Extension:  [_link to chrome webstore_](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcff)
-- Stylish Firefox Add-on:  [_link to firefox add-on_](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
-- Custom Slack Styles For Stylish Extension/Add-on:  [_link to stylish page_](https://userstyles.org/styles/browse?search_terms=slack)
+- Stylish Chrome Extension:  [_Link to Chrome Webstore_](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcff)
+- Stylish Firefox Add-on:  [_Link to Firefox Add-on_](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
+- Slack Styles For Stylish Extension/Add-on:  [_Link to Stylish Themes for Slack_](https://userstyles.org/styles/browse?search_terms=slack)
 
 ### Credits
 Lots of credit goes to a chain of repositories starting from:
