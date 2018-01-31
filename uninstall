@@ -12,7 +12,7 @@ echo -e "  Restoring configuration from installation backup...\n"
 
 # Uses root permissions because some users do not own their /Applications directory and therefore cannot perform file operations within Slack.app content directories
 
-sudo rm $SLACK_DIR/ssb-interop.js $SLACK_DIR/dark.css
+sudo rm $SLACK_DIR/ssb-interop.js
 sudo cp ./backup/ssb-interop.js $SLACK_DIR/
 
 echo -e "  ${b}Complete.${n} Close and Restart Slack Application.\n"
