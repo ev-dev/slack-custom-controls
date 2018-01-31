@@ -23,6 +23,14 @@ $ ./install
 
 Important: Install and Uninstall scripts use relative paths so they MUST be ran from within your cloned repo's directory. Please `cd` into the repo directory before running.
 
+### Sidbar Theme
+Additionally, you can update your Sidebar's theme to match the Dark Mode Theme. The setting is in the Slack Preferences.
+- From the menu, Go to `Preferences > Sidebar > Theme`
+- At the bottom click `Customize your theme` and clear the textbox
+- Paste the follow Hex colors:
+- `#222222,#444A47,#D39B46,#FFFFFF,#434745,#FFFFFF,#99D04A,#DB6668`
+
+
 ## Feature Requests
 Want anything else out of Slack? Make an issue.
 
