@@ -1992,8 +1992,13 @@ textarea[readonly] {
 }
 
 .c-message__sender_link {
-    color: #757575;
+    color: grey;
 }
+
+.c-mrkdwn__broadcast--mention {
+    background-color: #121212;
+}
+
 
 .c-email__sender_collapsed,
 .c-email__title_collapsed {
