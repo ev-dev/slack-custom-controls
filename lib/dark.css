@@ -1975,12 +1975,20 @@ textarea[readonly] {
     color: #ff8c00;
 }
 
+.c-message_attachment__field_value {
+    color: #E2E2E2;
+}
+
 .c-message_attachment {
-    color: #d7ba7d
+    color: #d7ba7d;
 }
 
 .c-message__body {
-    color: #d7ba7d
+    color: #E2E2E2;
+}
+
+.c-message__sender_link {
+    color: #757575;
 }
 
 .c-email__sender_collapsed,
@@ -4881,10 +4889,15 @@ span.match {
     color: #949494;
 }
 
+
+.c-timestamp__label {
+    color: yellow;
+}
+
 .c-member__display-name,
 .c-team__display-name,
 .c-usergroup__handle {
-    color: #d7ba7d;
+    color: #757575;
 }
 
 .c-member__current-status--small::before,

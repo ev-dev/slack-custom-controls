@@ -1,0 +1,1104 @@
+
+
+body {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+body {
+  color: rgb(44, 45, 48)
+}
+
+
+
+a {
+  color: rgb(255, 255, 255)
+}
+
+
+
+a:link, a:visited {
+  color: rgb(255, 255, 255)
+}
+
+
+
+hr {
+  border-bottom: 0px none rgb(44, 45, 48)
+}
+
+
+
+hr {
+  border-top: 1px solid rgb(232, 232, 232)
+}
+
+
+
+h1, h2, h3, h4 {
+  color: rgb(44, 45, 48)
+}
+
+
+
+.top_border {
+  border-top: 1px solid rgb(232, 232, 232)
+}
+
+
+
+.bottom_border {
+  border-bottom: 1px solid rgb(232, 232, 232)
+}
+
+
+
+.left_border {
+  border-left: 1px solid rgb(232, 232, 232)
+}
+
+
+
+.alert {
+  background-color: rgb(255, 255, 255)
+}
+
+
+
+.alert {
+  border-color: rgb(232, 232, 232) rgb(232, 232, 232) rgb(232, 232, 232) rgb(255, 144, 0)
+}
+
+
+
+.alert {
+  color: rgb(44, 45, 48)
+}
+
+
+
+.alert {
+  text-shadow: rgba(255, 255, 255, 0.5) 0px 1px 0px
+}
+
+
+
+.c-scrollbar--monkey .c-scrollbar__track {
+  background: rgb(249, 249, 249) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.c-scrollbar--monkey .c-scrollbar__bar {
+  background: rgb(217, 217, 222) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.c-scrollbar--monkey .c-scrollbar__bar {
+  box-shadow: rgb(255, 255, 255) 0px 3px 0px 0px, rgb(255, 255, 255) 0px -3px 0px 0px
+}
+
+
+
+.client_channels_list_container {
+  background-color: rgb(79, 47, 76)
+}
+
+
+
+.client_channels_list_container {
+  border-right-color: rgb(44, 45, 48)
+}
+
+
+
+#col_channels {
+  color: rgb(44, 45, 48)
+}
+
+
+
+.p-channel_sidebar {
+  background-color: rgb(79, 47, 76)
+}
+
+
+
+.p-channel_sidebar {
+  color: rgb(202, 193, 201)
+}
+
+
+
+.p-channel_sidebar__channel, .p-channel_sidebar__channel:link, .p-channel_sidebar__channel:visited, .p-channel_sidebar__channel:hover, .p-channel_sidebar__link, .p-channel_sidebar__link:link, .p-channel_sidebar__link:visited, .p-channel_sidebar__link:hover {
+  color: rgb(202, 193, 201)
+}
+
+
+
+.p-channel_sidebar__channel--selected, .p-channel_sidebar__channel--selected:link, .p-channel_sidebar__channel--selected:visited, .p-channel_sidebar__channel--selected:hover, .p-channel_sidebar__link--selected, .p-channel_sidebar__link--selected:link, .p-channel_sidebar__link--selected:visited, .p-channel_sidebar__link--selected:hover {
+  color: rgb(255, 255, 255)
+}
+
+
+
+.p-channel_sidebar__channel--im.p-channel_sidebar__channel--selected .c-presence, .p-channel_sidebar__channel--im-slackbot.p-channel_sidebar__channel--selected::before {
+  color: rgb(255, 255, 255)
+}
+
+
+
+.p-channel_sidebar__channel--im .c-presence--away {
+  color: rgb(202, 193, 201)
+}
+
+
+
+.p-channel_sidebar__channel--selected, .p-channel_sidebar__link--selected {
+  background: rgb(140, 88, 136) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.p-channel_sidebar__badge, .p-channel_sidebar__banner--mentions {
+  background: rgb(136, 145, 0) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.p-channel_sidebar .c-custom_scrollbar__thumb_vertical, .p-channel_sidebar .c-scrollbar__bar {
+  background: rgba(255, 255, 255, 0.45) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name, .p-channel_sidebar__link--unread .p-channel_sidebar__name, .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name, .p-channel_sidebar__section_heading_label--clickable:hover, .p-channel_sidebar__quickswitcher:hover {
+  color: rgb(255, 255, 255)
+}
+
+
+
+.infinite_spinner_bg, .infinite_spinner_blue {
+  stroke: rgb(128, 128, 128)
+}
+
+
+
+.btn {
+  background-color: rgb(46, 166, 100)
+}
+
+
+
+.btn {
+  color: rgb(255, 255, 255)
+}
+
+
+
+.btn {
+  text-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px
+}
+
+
+
+.btn_outline {
+  background: rgb(249, 249, 249) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.btn_outline {
+  color: rgb(44, 45, 48)
+}
+
+
+
+.btn_link {
+  color: rgb(255, 255, 255)
+}
+
+
+
+#msg_form #msg_input {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#msg_form #msg_input {
+  border-color: rgba(160, 160, 162, 0.7)
+}
+
+
+
+#msg_form #msg_input {
+  border-left: 2px solid rgba(160, 160, 162, 0.7)
+}
+
+
+
+#msg_form #msg_input {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#msg_form .msg_mentions_button {
+  color: rgb(113, 114, 116)
+}
+
+
+
+#msg_input {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#msg_input {
+  border-color: rgba(160, 160, 162, 0.7)
+}
+
+
+
+#msg_input {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#msg_input+#primary_file_button:not(:hover):not(.active) {
+  border-color: rgba(160, 160, 162, 0.7)
+}
+
+
+
+#msg_input_message {
+  background-color: rgb(249, 249, 249)
+}
+
+
+
+#msg_input_message {
+  color: rgb(113, 114, 116)
+}
+
+
+
+#primary_file_button {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#primary_file_button {
+  border-color: rgba(160, 160, 162, 0.7)
+}
+
+
+
+#primary_file_button {
+  color: rgb(160, 160, 162)
+}
+
+
+
+#footer, #footer.footer_msg_input {
+  background: rgba(0, 0, 0, 0) linear-gradient(rgba(255, 255, 255, 0), rgb(255, 255, 255) 6px) repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#footer, #footer.footer_msg_input {
+  box-shadow: rgb(232, 232, 232) 1px 0px 0px 0px inset
+}
+
+
+
+#footer_archives_table {
+  color: rgb(113, 114, 116)
+}
+
+
+
+#typing_text {
+  color: rgb(113, 114, 116)
+}
+
+
+
+#typing_text {
+  filter: 
+}
+
+
+
+#special_formatting_text {
+  color: rgb(113, 114, 116)
+}
+
+
+
+.ql-placeholder {
+  color: rgb(0, 0, 0)
+}
+
+
+
+.ql-placeholder {
+  filter: 
+}
+
+
+
+.ql-container.texty_single_line_input {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.ql-container.texty_single_line_input {
+  border: 0px none rgb(44, 45, 48)
+}
+
+
+
+.ql-container.texty_single_line_input {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#client-ui .member_filter {
+  border: 0px none rgb(44, 45, 48)
+}
+
+
+
+#team_menu {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#team_menu {
+  border-bottom: 1px solid rgb(79, 47, 76)
+}
+
+
+
+#team_menu {
+  color: rgb(255, 255, 255)
+}
+
+
+
+#team_menu i {
+  color: rgb(255, 255, 255)
+}
+
+
+
+#team_menu .team_name_caret, #team_menu .notifications_menu_btn {
+  color: rgb(255, 255, 255)
+}
+
+
+
+#team_menu_user {
+  color: rgb(255, 255, 255)
+}
+
+
+
+#team_menu_user_name, #team_menu_user_details {
+  color: rgb(255, 255, 255)
+}
+
+
+
+#team_menu_user_name, #team_menu_user_details {
+  opacity: 1
+}
+
+
+
+.channel_header {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.channel_header {
+  box-shadow: rgb(232, 232, 232) 1px 0px 0px 0px inset
+}
+
+
+
+.messages_header {
+  color: rgb(113, 114, 116)
+}
+
+
+
+.channel_title .channel_name_container .channel_name {
+  color: rgb(44, 45, 48)
+}
+
+
+
+.channel_header_info button {
+  color: rgb(113, 114, 116)
+}
+
+
+
+.channel_title_info {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.channel_title_info {
+  color: rgb(113, 114, 116)
+}
+
+
+
+.channel_title_info .channel_details_toggle, .channel_title_info .channel_actions_toggle {
+  color: rgb(113, 114, 116)
+}
+
+
+
+.channel_header_icon {
+  color: rgb(113, 114, 116)
+}
+
+
+
+#flex_menu_toggle .flex_menu_download_circle {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#flex_menu_toggle .flex_menu_download_circle canvas {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#rxn_toast_div {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#rxn_toast_div {
+  border: 1px solid rgba(79, 176, 252, 0.4)
+}
+
+
+
+.presence {
+  color: rgb(147, 204, 147)
+}
+
+
+
+.search_form {
+  border-color: rgb(160, 160, 162)
+}
+
+
+
+.search_form .search_input {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.search_clear_icon .ts_icon_times_circle {
+  color: rgb(113, 114, 116)
+}
+
+
+
+#search_container .search_input {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#search_container .icon_search {
+  color: rgb(113, 114, 116)
+}
+
+
+
+#team_filter .icon_search, #team_filter .ts_icon_spinner, #user_group_filter .icon_search, #user_group_filter .ts_icon_spinner, .searchable_member_list_search_bar .icon_search, .searchable_member_list_search_bar .ts_icon_spinner {
+  color: rgb(204, 204, 204)
+}
+
+
+
+#team_filter a.icon_close, #user_group_filter a.icon_close, .searchable_member_list_search_bar a.icon_close {
+  color: rgb(160, 160, 162)
+}
+
+
+
+#msgs_overlay_div {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#col_messages {
+  box-shadow: rgb(232, 232, 232) 1px 0px 0px 0px inset
+}
+
+
+
+.c-message__body {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#convo_container {
+  background-color: rgba(0, 0, 0, 0)
+}
+
+
+
+.star {
+  color: rgb(113, 114, 116)
+}
+
+
+
+.messages_banner {
+  color: rgb(44, 45, 48)
+}
+
+
+
+.messages_banner {
+  text-shadow: none
+}
+
+
+
+.messages_banner a {
+  color: rgb(255, 255, 255)
+}
+
+
+
+#connection_div {
+  background: rgb(255, 224, 102) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.clear_unread_messages {
+  border-left: 1px solid rgb(61, 156, 212)
+}
+
+
+
+code {
+  background-color: rgb(247, 247, 249)
+}
+
+
+
+code {
+  border: 1px solid rgb(225, 225, 232)
+}
+
+
+
+code {
+  color: rgb(113, 114, 116)
+}
+
+
+
+#threads_msgs_scroller_div {
+  background: rgba(0, 0, 0, 0) url("https://a.slack-edge.com/d5d4a/img/unread/uv-loader@2x.gif") no-repeat scroll 50% 50% / 200px 200px padding-box border-box
+}
+
+
+
+#threads_msgs_scroller_div.loading {
+  background: rgba(0, 0, 0, 0) url("https://a.slack-edge.com/d5d4a/img/unread/uv-loader@2x.gif") no-repeat scroll 50% 50% / 200px 200px padding-box border-box
+}
+
+
+
+#threads_view_banner.messages_banner {
+  background: rgb(41, 178, 238) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#convo_tab .thread_participants, ts-thread .thread_participants {
+  color: rgb(113, 114, 116)
+}
+
+
+
+#convo_loading_indicator {
+  background-image: url("https://a.slack-edge.com/9c217/img/loading_hash_animation.gif")
+}
+
+
+
+#col_flex {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#flex_contents {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#flex_contents .heading {
+  background: rgb(249, 249, 249) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#flex_contents .heading {
+  border-bottom-color: rgb(232, 232, 232)
+}
+
+
+
+#flex_contents .heading {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#flex_contents .heading a {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#flex_contents .heading .menu_icon {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#flex_contents .heading_text {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#flex_contents .subheading:not(.empty) {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#flex_contents .subheading:not(.empty) {
+  border-top: 0px none rgb(44, 45, 48)
+}
+
+
+
+#flex_contents .subheading:not(.empty) {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#flex_contents .toolbar_container {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#flex_contents .flexpane_tab_bar li .tab, #flex_contents .flexpane_tab_bar li a {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#flex_contents .flexpane_tab_bar li.active {
+  border-bottom: 4px solid rgb(46, 166, 100)
+}
+
+
+
+#flex_contents .flexpane_tab_bar li.active a, #flex_contents .flexpane_tab_bar li.active .tab {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#flex_contents .help {
+  border-top: 5px solid rgb(46, 166, 100)
+}
+
+
+
+#flex_contents .help {
+  color: rgb(113, 114, 116)
+}
+
+
+
+.close_flexpane {
+  color: rgb(113, 114, 116)
+}
+
+
+
+.toolbar_container {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.toolbar_container {
+  border-bottom: 1px solid rgb(232, 232, 232)
+}
+
+
+
+.toolbar_container {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#details_tab .heading {
+  background: rgb(249, 249, 249) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#details_tab .channel_page_section {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#details_tab .channel_page_section {
+  border-top: 0px none rgb(44, 45, 48)
+}
+
+
+
+#details_tab .channel_page_section .section_title {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#details_tab .channel_page_section .disclosure_triangle {
+  color: rgb(160, 160, 162)
+}
+
+
+
+#details_tab .channel_section_label .ts_icon_info_circle {
+  color: rgb(113, 114, 116)
+}
+
+
+
+#file_list_toggle_users {
+  color: rgb(113, 114, 116)
+}
+
+
+
+.edit_comment_form .texty_comment_input, .comment_form .texty_comment_input {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.edit_comment_form .texty_comment_input, .comment_form .texty_comment_input {
+  border-color: rgb(160, 160, 162)
+}
+
+
+
+.edit_comment_form .texty_comment_input, .comment_form .texty_comment_input {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#user_groups_container .mention {
+  background-color: rgb(255, 245, 204)
+}
+
+
+
+#flex_contents .subheading:not(.empty)#mentions_options {
+  background-color: rgba(0, 0, 0, 0)
+}
+
+
+
+#flex_contents .subheading:not(.empty)#mentions_options {
+  border-bottom-color: rgb(44, 45, 48)
+}
+
+
+
+#flex_contents .subheading:not(.empty)#mentions_options {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#search_filters .tab {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+#search_filters .tab {
+  color: rgb(44, 45, 48)
+}
+
+
+
+.feature_sli_file_search #search_filters.all #filter_all {
+  border-bottom-color: rgb(46, 166, 100)
+}
+
+
+
+.feature_sli_file_search #search_filters.all #filter_all {
+  color: rgb(44, 45, 48)
+}
+
+
+
+.feature_sli_file_search #search_results_loading {
+  background-color: rgb(249, 249, 249)
+}
+
+
+
+.feature_sli_file_search #search_results_container #search_options {
+  background-color: rgb(255, 255, 255)
+}
+
+
+
+.feature_sli_file_search #search_results_container .heading {
+  background-color: rgb(255, 255, 255)
+}
+
+
+
+.p-shortcuts_flexpane__shortcut {
+  border-color: rgb(232, 232, 232)
+}
+
+
+
+.p-shortcuts_flexpane__shortcut:last-of-type {
+  border-bottom-color: rgb(232, 232, 232)
+}
+
+
+
+.p-shortcuts_flexpane__shortcut_hoverable .p-shortcuts_flexpane__shortcut_title {
+  color: rgb(5, 118, 185)
+}
+
+
+
+.p-shortcuts_flexpane__shortcut_title {
+  color: rgb(5, 118, 185)
+}
+
+
+
+.p-shortcuts_flexpane__title {
+  color: rgb(44, 45, 48)
+}
+
+
+
+.p-shortcuts_flexpane__tip {
+  color: rgb(113, 114, 116)
+}
+
+
+
+.p-shortcuts_flexpane__sub_heading {
+  color: rgb(113, 114, 116)
+}
+
+
+
+.c-keyboard_key {
+  background: rgb(232, 232, 232) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.c-keyboard_key {
+  border-color: rgb(160, 160, 162)
+}
+
+
+
+.c-keyboard_key {
+  box-shadow: rgb(160, 160, 162) 0px 1px 0px 0px
+}
+
+
+
+.c-keyboard_key {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#member_preview_scroller {
+  background-color: rgb(255, 255, 255)
+}
+
+
+
+#team_tab #member_preview_scroller {
+  background-color: rgb(255, 255, 255)
+}
+
+
+
+#whats_new_tab p {
+  color: rgb(44, 45, 48)
+}
+
+
+
+#whats_new_tab .flex_heading_controls label {
+  color: rgb(113, 114, 116)
+}
+
+
+
+#message_edit_form .current_status_empty_emoji, #message_edit_form .current_status_empty_emoji_cover, #message_edit_form .emo_menu, #msg_form .current_status_empty_emoji, #msg_form .current_status_empty_emoji_cover, #msg_form .emo_menu, .current_status_container .current_status_empty_emoji, .current_status_container .current_status_empty_emoji_cover, .current_status_container .emo_menu, .current_status_input_container .current_status_empty_emoji, .current_status_input_container .current_status_empty_emoji_cover, .current_status_input_container .emo_menu, .inline_message_input_container .current_status_empty_emoji, .inline_message_input_container .current_status_empty_emoji_cover, .inline_message_input_container .emo_menu, .share_channel_modal_contents .current_status_empty_emoji, .share_channel_modal_contents .current_status_empty_emoji_cover, .share_channel_modal_contents .emo_menu {
+  color: rgb(113, 114, 116)
+}
+
+
+
+ts-jumper ts-jumper-container {
+  background: rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+ts-jumper ts-jumper-container {
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 10px 0px
+}
+
+
+
+ts-jumper ts-jumper-help {
+  color: rgb(113, 114, 116)
+}
+
+
+
+ts-jumper input[type=text] {
+  border: 1px solid rgb(160, 160, 162)
+}
+
+
+
+ts-jumper input[type=text] {
+  color: rgb(44, 45, 48)
+}
+
+
+
+.ts_tip .ts_tip_multiline_inner, .ts_tip:not(.ts_tip_multiline) .ts_tip_tip {
+  background: rgb(0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
+
+
+.ts_tip .ts_tip_tip {
+  color: rgb(255, 255, 255)
+}
+
+
+
+.mini, .dull_grey, .flat_grey, .blue_link, .blue_fill, .slate_blue, .charcoal_grey, .indifferent_grey, .ts_tip_tip .subtle_silver {
+  color: rgb(113, 114, 116)
+}
+
+
+
+.greigh, .sky_blue, .severe_grey, .havana_blue, .burnt_violet, .plastic_grey, .cloud_silver, .sk_dark_gray, .sk_dark_grey, .subtle_silver, .old_petunia_grey {
+  color: rgb(113, 114, 116)
+}
+
+
+
+.moscow_red, .yolk_orange, .mustard_yellow, .candy_red_on_hover:hover, .moscow_red_on_hover:hover {
+  color: rgb(255, 144, 0)
+}
+
+
+
+.candy_red_bg {
+  background-color: rgb(215, 43, 63)
+}
+
+
+
+.sky_blue_bg, .clear_blue_bg, .seafoam_green_bg {
+  background-color: rgb(46, 166, 100)
+}
+
+
+
+.help {
+  border-top-color: rgb(46, 166, 100)
+}
+
+
+
+.help {
+  color: rgb(113, 114, 116)
+}
+
+
+
+header {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box
+}
+
+
+
+nav {
+  background: rgb(79, 47, 76) none repeat scroll 0% 0% / auto padding-box border-box
+}
+
