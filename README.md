@@ -24,8 +24,8 @@ Important: Install and Uninstall scripts use relative paths so they MUST be ran 
 
 ## Sidebar Theme
 Additionally, you can update your Sidebar's theme from the Preferences. To match the Dark Mode Theme colorscheme of this project:
-- From the menu, go to _Preferences_ *➪* _Sidebar_ *➪* _Theme_
-- At the bottom click _Customize Your Theme_ and clear the textbox
+- From the menu, go to **_Preferences_** ➪ **_Sidebar_** ➪ **_Theme_**
+- At the bottom click **_Customize Your Theme_** and clear the textbox
 - Paste the follow Hex colors:  `#222222,#444A47,#D39B46,#FFFFFF,#434745,#FFFFFF,#99D04A,#DB6668`
 
 ## Feature Requests
