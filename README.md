@@ -9,7 +9,7 @@ Slacks' slacking on some pretty basic features. Here is an easy script to instal
 
 ## Screenshot
 [![https://gyazo.com/451567e9ddaa44cb675c48f016d085e8](https://i.gyazo.com/451567e9ddaa44cb675c48f016d085e8.gif)](https://gyazo.com/451567e9ddaa44cb675c48f016d085e8)
-**_Only For OS X Desktop Version_**
+**_ * Only For OS X Desktop Version * _**
 
 ## Instructions
 Included in this repo is an install script which simply moves a modified file of the Slack source code into place and backs up the original.  
@@ -21,7 +21,9 @@ $ cd slack-custom-controls
 $ ./install
 ```
 
-**Important:** _Install and uninstall scripts use relative paths._ Do not run from outside the repo's root directory. Always `cd` into repo directory before running either script.
+**Important:** _Install and uninstall scripts use relative paths._  
+Do **not** run from outside the repo's root directory.  
+**Always**`cd` into repo directory before running either script.
 
 ## Sidebar Theme
 Additionally, you can update your Sidebar's theme from the Preferences. To match the Dark Mode Theme colorscheme of this project:
