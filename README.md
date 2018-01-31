@@ -12,7 +12,7 @@ Slacks' slacking on some pretty basic features. Here is an easy script to instal
 **_Only For OS X Desktop Version_**
 
 ## Instructions
-Included in this repo is an install script which simply moves a modified file of the Slack source code into place and backs up the original.  
+Included in this repo is an install script which simply moves a modified file of the Slack source code into place and backs up the original.
 
 ```bash
 $ git clone https://github.com/ev-dev/slack-custom-controls.git
@@ -22,7 +22,9 @@ $ ./install
 
 To uninstall, run uninstall script from within the same directory.  
 
-**Important:** _Install and uninstall scripts use relative paths._ Do **not** run from outside the repo's root directory. Always `cd` into repo directory before running either script.
+**Important:** _Install and uninstall scripts use relative paths._ Do **not** run from outside the repo's root directory. Always `cd` into repo directory before running either script.  
+
+**Note:** Scripts will ask for your password..This is because some users don't own their `/Applications` directory and therefore cannot perform file operations on the Slack.app contents files.
 
 ## Sidebar Theme
 Additionally, you can update your Sidebar's theme from the Preferences. To match the Dark Mode Theme colorscheme of this project:
