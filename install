@@ -21,3 +21,6 @@ sudo rm $SLACK_DIR/ssb-interop.js
 sudo cp ./lib/ssb-interop.js ./lib/dark.css $SLACK_DIR/
 
 echo -e "  ${b}Complete.${n} Close and Restart Slack Application.\n"
+echo -e "  * Shortcuts *"
+echo -e "  ${b}Toggle Dark Mode Theme:${n} ⌘+D"
+echo -e "  ${b}Toggle Channels Sidebar:${n} ⌘+S"
