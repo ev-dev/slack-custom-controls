@@ -37,10 +37,14 @@ Additionally, you can update your Sidebar's theme from the Preferences. To match
 Want anything else out of Slack? Make an issue.
 
 ## Slack Desktop Too **Bulky**?
-If Slack.app takes up too much system resources and you use the web version, you can still customize your slack from this fantastic extension:
+If Slack.app takes up too much system resources and you use the web version, you can still customize your slack from this fantastic extension which has custom styles for many popular sites.
 - Stylish Chrome Extension:  [_Link to Chrome Webstore_](https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcff)
 - Stylish Firefox Add-on:  [_Link to Firefox Add-on_](https://addons.mozilla.org/en-US/firefox/addon/stylish/)
-- Slack Styles For Stylish Extension/Add-on:  [_Link to Stylish Themes for Slack_](https://userstyles.org/styles/browse?search_terms=slack)
+- Slack Styles For Stylish Extension/Add-on:  [_Link to Stylish Themes for Slack_](https://userstyles.org/styles/browse?search_terms=slack)  
+  
+Other options for easing your weary eyes:
+- [_Dark Reader Chrome Extension_](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
+- [_Hacker Vision Chrome Extension_](https://chrome.google.com/webstore/detail/hacker-vision/fommidcneendjonelhhhkmoekeicedej)
 
 ### Credits
 Lots of credit goes to a chain of repositories starting from:
