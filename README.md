@@ -9,7 +9,7 @@ Slacks' slacking on some pretty basic features. Here is an easy script to instal
 
 ## Screenshot
 [![https://gyazo.com/451567e9ddaa44cb675c48f016d085e8](https://i.gyazo.com/451567e9ddaa44cb675c48f016d085e8.gif)](https://gyazo.com/451567e9ddaa44cb675c48f016d085e8)
-**_ * Only For OS X Desktop Version * _**
+**_Only For OS X Desktop Version_**
 
 ## Instructions
 Included in this repo is an install script which simply moves a modified file of the Slack source code into place and backs up the original.  
