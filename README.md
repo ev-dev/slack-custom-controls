@@ -21,9 +21,7 @@ $ cd slack-custom-controls
 $ ./install
 ```
 
-**Important:** _Install and uninstall scripts use relative paths._  
-Do **not** run from outside the repo's root directory.  
-**Always**`cd` into repo directory before running either script.
+**Important:** _Install and uninstall scripts use relative paths._ Do **not** run from outside the repo's root directory. _Always_`cd` into repo directory before running either script.
 
 ## Sidebar Theme
 Additionally, you can update your Sidebar's theme from the Preferences. To match the Dark Mode Theme colorscheme of this project:
