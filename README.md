@@ -7,12 +7,13 @@ Slacks' slacking on some pretty basic features. Here is an easy script to instal
 - Convenient buttons for toggling features
 - Keyboard shortcuts:  Toggle Dark Theme (⌘-D) & Toggle Sidebar (⌘-S)
 
-### Screenshot
+## Screenshot
 [![https://gyazo.com/451567e9ddaa44cb675c48f016d085e8](https://i.gyazo.com/451567e9ddaa44cb675c48f016d085e8.gif)](https://gyazo.com/451567e9ddaa44cb675c48f016d085e8)
-**__Only For OS X Desktop Version__**
+**_Only For OS X Desktop Version_**
 
 ## Instructions
-Included in this repo is an install script which simply moves a modified file of the Slack source code into place and backs up the original. To uninstall, run uninstall script. 
+Included in this repo is an install script which simply moves a modified file of the Slack source code into place and backs up the original.  
+To uninstall, run uninstall script from within the same directory.
 
 ```bash
 $ git clone https://github.com/ev-dev/slack-custom-controls.git
@@ -20,7 +21,7 @@ $ cd slack-custom-controls
 $ ./install
 ```
 
-Important: Install and Uninstall scripts use relative paths so they MUST be ran from within your cloned repo's directory. Please `cd` into the repo directory before running.
+**_Important_** Install and uninstall scripts use relative paths. Do not run from outside the repo's root directory. Always `cd` into repo directory before running either script.
 
 ## Sidebar Theme
 Additionally, you can update your Sidebar's theme from the Preferences. To match the Dark Mode Theme colorscheme of this project:
