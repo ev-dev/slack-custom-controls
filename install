@@ -8,7 +8,8 @@ n=`tput sgr0`
 
 echo -e "\n\t${u}Slack Custom Controls${nu}\n"
 echo -e "  Backing up current Slack configuration..."
-echo -e "  (To uninstall custom controls run uninstall script in this repository)\n"
+echo -e "  (to uninstall custom controls run"
+echo -e "   uninstall script in this directory)\n"
 
 # Uses root permissions because some users do not own their /Applications directory and therefore cannot perform file operations within Slack.app content directories
 
