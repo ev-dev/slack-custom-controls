@@ -10,11 +10,13 @@ echo -e "\n\t${u}Slack Custom Controls${nu}\n"
 echo -e "  Backing up current Slack configuration..."
 echo -e "  (To uninstall custom controls run uninstall script in this repository)\n"
 
-cp $SLACK_DIR/ssb-interop.js ./backup/
+# Uses root permissions because some users do not own their /Applications directory and therefore cannot perform file operations within Slack.app content directories
+
+sudo cp $SLACK_DIR/ssb-interop.js ./backup/
 
 echo -e "  Installing Controls...\n"
 
-rm $SLACK_DIR/ssb-interop.js
-cp ./lib/ssb-interop.js ./lib/dark.css $SLACK_DIR/
+sudo rm $SLACK_DIR/ssb-interop.js
+sudo cp ./lib/ssb-interop.js ./lib/dark.css $SLACK_DIR/
 
 echo -e "  ${b}Complete.${n} Close and Restart Slack Application.\n"
