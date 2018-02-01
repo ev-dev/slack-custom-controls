@@ -32,12 +32,9 @@ To uninstall, run uninstall script from within the same directory.
 **Note:** Scripts will ask for your password..This is because some users don't own their `/Applications` directory and therefore cannot perform file operations on the Slack.app contents files.
 
 ### Updates
-If you're attempting to get updates & changes, you'll need to run  
-```bash
-$ ./uninstall
-$ ./install
-```
-
+Repo provides `./upgrade` script for smooth & easy upgrades  
+  
+If you cloned before an upgrade script was included, just `git pull` in the repo directory and then run the `./upgrade` script.
 
 ## Sidebar Theme
 Additionally, you can update your Sidebar's theme from the Preferences. To match the Dark Mode Theme colorscheme of this project:
