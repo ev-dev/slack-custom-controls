@@ -25,9 +25,9 @@ $ cd slack-custom-controls
 $ ./install
 ```
 
-To uninstall, run uninstall script from within the same directory.  
+To uninstall, run `./uninstall` script from within the same directory.
 
-**Important:** _Install and uninstall scripts use relative paths._ Do **not** run from outside the repo's root directory. Always `cd` into repo directory before running either script.  
+**Important:** _Install/Uninstall/Upgrade scripts use relative paths._ Do **not** run from outside the repo's root directory. Always `cd` into repo directory before running either script.  
 
 **Note:** Scripts will ask for your password..This is because some users don't own their `/Applications` directory and therefore cannot perform file operations on the Slack.app contents files.
 
