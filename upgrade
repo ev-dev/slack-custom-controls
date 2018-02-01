@@ -1,0 +1,19 @@
+#!/bin/bash
+
+SLACK_DIR=/Applications/Slack.app/Contents/Resources/app.asar.unpacked/src/static
+u=`tput smul`
+nu=`tput rmul`
+b=`tput bold`
+n=`tput sgr0`
+
+echo -e "\n\t${u}Slack Custom Controls${nu}\n"
+echo -e "  Upgrading..."
+
+git pull origin master
+
+# Uses root permissions because some users do not own their /Applications directory and therefore cannot perform file operations within Slack.app content directories
+
+./uninstall >/dev/null
+./install >/dev/null
+
+echo -e "  ${b}Complete.${n} Close and Restart Slack Application.\n"
