@@ -6,8 +6,11 @@ Slacks' slacking on some pretty basic features. Here is an easy script to instal
 ## Features
 - Dark Mode Theme
 - Hide Channels Sidebar for more screen space
-- Convenient buttons for toggling features
-- **Keyboard Shortcuts:**  _Toggle Dark Theme_ [ **⌘-D** ] & _Toggle Sidebar_ [ **⌘-B** ]
+- Convenient buttons for toggling features  
+- **Keyboard Shortcuts:**
+	- _Toggle Dark Theme_ [ **⌘-D** ]
+	- _Toggle Sidebar_ [ **⌘-B** ]
+	- _Toggle Visible Controls_ [ **⌘-G** ] (For Keyboard-Only Users)
 
 ## Screenshot
 ![usage gif](https://i.gyazo.com/451567e9ddaa44cb675c48f016d085e8.gif)
