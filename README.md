@@ -10,10 +10,10 @@ Slacks' slacking on some pretty basic features. Here is an easy script to instal
 - **Keyboard Shortcuts:**  _Toggle Dark Theme_ [ **⌘-D** ] & _Toggle Sidebar_ [ **⌘-B** ]
 
 ## Screenshot
-![https://gyazo.com/451567e9ddaa44cb675c48f016d085e8](https://i.gyazo.com/451567e9ddaa44cb675c48f016d085e8.gif)
+![usage gif](https://i.gyazo.com/451567e9ddaa44cb675c48f016d085e8.gif)
 
 **Readable Syntax Highlighting**  
-![https://gyazo.com/e87cea97851ab5bece20e67d1935cafe](https://i.gyazo.com/e87cea97851ab5bece20e67d1935cafe.png)
+![syntax highlighting](https://i.gyazo.com/e87cea97851ab5bece20e67d1935cafe.png)
 
 
 ## Instructions
