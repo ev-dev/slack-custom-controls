@@ -7,12 +7,12 @@ b=`tput bold`
 n=`tput sgr0`
 
 echo -e "\n\t${u}Slack Custom Controls${nu}\n"
-echo -e "  Upgrading..."
+echo -e "  - Fetching latest changes from GitHub...\n"
 
-git pull origin master
+git pull origin master >/dev/null
 
 # Uses root permissions because some users do not own their /Applications directory and therefore cannot perform file operations within Slack.app content directories
-
+echo -e "  - Upgrading...\n"
 ./uninstall >/dev/null
 ./install >/dev/null
 

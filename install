@@ -17,7 +17,7 @@ sudo cp $SLACK_DIR/ssb-interop.js ./backup/
 
 echo -e "  Installing Controls...\n"
 
-sudo rm $SLACK_DIR/ssb-interop.js
+sudo rm $SLACK_DIR/ssb-interop.js 2>&1 | grep -i NoFile
 sudo cp ./lib/ssb-interop.js ./lib/dark.css $SLACK_DIR/
 
 echo -e "  ${b}Complete.${n} Close and Restart Slack Application.\n"
